@@ -1,18 +1,17 @@
 # --- Basic options --- #
 
 # Name of website
-title: Mobile Monocular
+title: Mobile DEPTH Estimation
 
 # Short description of your site
-description: Live demo for CVPR 2020 Tutorial
+description: Live demo for HKBK FINAL YEAR PROJECT
 
 # Your name to show in the footer
-author: Filippo Aleotti
+author: syed Tauheed,Syed Dawood,Salman Saleem,Riyaz Ahmed
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
   Run: "run"
 
 
@@ -36,8 +35,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "filippo.aleotti2@unibo.it"
-  github: filippoaleotti
+  
   rss: false
 #  reddit: yourname
 #  linkedin: daattali
@@ -47,7 +45,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: 
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -64,7 +62,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Mobile Monocular"
+
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -160,8 +158,8 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
-markdown: kramdown
+
+
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
