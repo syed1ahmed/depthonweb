@@ -1,17 +1,13 @@
-# Mobile Monocular Live Demo
-Website for "Learning and Understanding Single Image Depth Estimation in the Wild",
-Tutorial CVPR 2020.
+# Mobile Monocular DEPTH ESTIMATION Live Demo
 
-This application has been realized by Filippo Aleotti, Fabio Tosi, Matteo Poggi and Stefano Mattoccia,
-from the University of Bologna.
+Mobile Monocular Depth Estimation.
 
-# More information about this work will be provided in the next days!
+Live demo for HKBkCE Final year ECE branch Group27.
 
+by syed Tauheed Ahmed,Syed Dawood Shah,Salman Saleem,Riyaz Ahmed Khan.  
 # License
-The code for the website is from [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll), and it is licensed under MIT License.
+licensed under MIT License.
 
 Weights of the network can be used for academic purposes only.
 
-# Contact
-For questions write to
-filippo.aleotti2@unibo.it
+
