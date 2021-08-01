@@ -32,7 +32,7 @@ subtitle: Make an inference on your browser
         <div class="col-xs-6 col-sm-3 text-center">
             <figure class="figure">
                 <span class="iconify" data-icon="simple-icons:webgl" data-inline="false" style="font-size: 50px"></span>
-                <figcaption class="figure-caption">if possible, enable WebGL</figcaption>
+                <figcaption class="figure-caption">relode this page if the image is not generated and if possible, enable WebGL</figcaption>
             </figure>
         </div>
     </div>
